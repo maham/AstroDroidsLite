@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AstroDroidsLite", "AstroDroidsLite\AstroDroidsLite.vcproj", "{5D7DC1E8-F802-425F-BAE2-274294F7F997}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hge", "ThirdParty\hge181\src\core\hge.vcproj", "{FB1A9503-D67D-4311-AB3B-113DAD7D6F9F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Box2D", "ThirdParty\Box2D\Box2D.vcproj", "{42A0719E-7450-4A20-8A2A-82770F39D214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D7DC1E8-F802-425F-BAE2-274294F7F997}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5D7DC1E8-F802-425F-BAE2-274294F7F997}.Debug|Win32.Build.0 = Debug|Win32
+		{5D7DC1E8-F802-425F-BAE2-274294F7F997}.Release|Win32.ActiveCfg = Release|Win32
+		{5D7DC1E8-F802-425F-BAE2-274294F7F997}.Release|Win32.Build.0 = Release|Win32
+		{FB1A9503-D67D-4311-AB3B-113DAD7D6F9F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB1A9503-D67D-4311-AB3B-113DAD7D6F9F}.Debug|Win32.Build.0 = Debug|Win32
+		{FB1A9503-D67D-4311-AB3B-113DAD7D6F9F}.Release|Win32.ActiveCfg = Release|Win32
+		{FB1A9503-D67D-4311-AB3B-113DAD7D6F9F}.Release|Win32.Build.0 = Release|Win32
+		{42A0719E-7450-4A20-8A2A-82770F39D214}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42A0719E-7450-4A20-8A2A-82770F39D214}.Debug|Win32.Build.0 = Debug|Win32
+		{42A0719E-7450-4A20-8A2A-82770F39D214}.Release|Win32.ActiveCfg = Release|Win32
+		{42A0719E-7450-4A20-8A2A-82770F39D214}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
