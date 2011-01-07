@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hge", "ThirdParty\hge181\sr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Box2D", "ThirdParty\Box2D\Box2D.vcproj", "{42A0719E-7450-4A20-8A2A-82770F39D214}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "View", "View\View.vcproj", "{5E4281BF-5B31-4587-BF39-9CB4293428F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -25,6 +27,10 @@ Global
 		{42A0719E-7450-4A20-8A2A-82770F39D214}.Debug|Win32.Build.0 = Debug|Win32
 		{42A0719E-7450-4A20-8A2A-82770F39D214}.Release|Win32.ActiveCfg = Release|Win32
 		{42A0719E-7450-4A20-8A2A-82770F39D214}.Release|Win32.Build.0 = Release|Win32
+		{5E4281BF-5B31-4587-BF39-9CB4293428F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5E4281BF-5B31-4587-BF39-9CB4293428F9}.Debug|Win32.Build.0 = Debug|Win32
+		{5E4281BF-5B31-4587-BF39-9CB4293428F9}.Release|Win32.ActiveCfg = Release|Win32
+		{5E4281BF-5B31-4587-BF39-9CB4293428F9}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
